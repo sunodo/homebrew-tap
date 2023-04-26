@@ -3,8 +3,8 @@ require "language/node"
 class Sunodo < Formula
   desc "Sunodo CLI"
   homepage "https://github.com/sunodo/sunodo"
-  url "https://registry.npmjs.org/@sunodo/cli/-/cli-0.2.0.tgz"
-  sha256 "ac67e71899d5b3f547952dd1c81e590466be1e300bf27b714d050e1014b1f537"
+  url "https://registry.npmjs.org/@sunodo/cli/-/cli-0.3.0.tgz"
+  sha256 "d3d528ac1f4ce55352a6af18faa1dbc79fed9b5fc076440f717d7bd2e36e9447"
   license "MIT"
 
   livecheck do
