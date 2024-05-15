@@ -1,5 +1,7 @@
 name: Node CI Suite
-on: push
+on:
+  push:
+  workflow_call:
 jobs:
   test:
     runs-on: macos-latest
